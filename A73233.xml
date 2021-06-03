@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iohn Spenser a Chesshire gallant his life and repentance, who for killing fo one Randall ... was lately executed at Burford a mile from Nantwich. To the tune of ...</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73233</idno><idno type="EEBO-CITATION">99898379</idno>
+  <idno type="VID">173460</idno>
+  <idno type="EEBO-PROQUEST">2248513234</idno>
+  <idno type="STC">STC 23098</idno>
+  <idno type="STC">ESTC S125636</idno>
+  <idno type="STC">EBB 32619 ; 20047</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99898379e"/>
+            <note>(EEBO-TCP ; phase 2, no. A73233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173460)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2051:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iohn Spenser a Chesshire gallant his life and repentance, who for killing fo one Randall ... was lately executed at Burford a mile from Nantwich. To the tune of ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>[by W. White] for I. Trundle,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[ca. 1617]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's and publisher's names and date of publication from STC.</note>
+                  <note>Verse - "Kind hearted men, a ... give eare".</note>
+                  <note>In two parts, printed side by side; the second part has title: Iohn Spenser his repentance in prison. Written with his owne hads as he lay in Chester Castle.</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Murder --  Poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:173460:1"/>
+            <head>Iohn Spenser a Chesshire Gallant, his life and repentance, who for killing of one Randall Gem: was lately executed at <hi>Burford</hi> a mile from <hi>Nan<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>twich.</hi>
+            </head>
+            <opener>To the tune of in Slumbring Sleepe.</opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of people standing</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>KInd hearted men, a while gaue eare</l>
+               <l>and plainely Ile vnsold</l>
+               <l>The saddest <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that euer yet,</l>
+               <l>by mortall man was told.</l>
+               <l>Our <hi>Spenser</hi> braue, of <hi>Cheshire</hi> chiefe,</l>
+               <l>for men of braue <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</l>
+               <l>Yet hee vnto his Countries griefe,</l>
+               <l>did good with ill reward.</l>
+            </lg>
+            <lg>
+               <l>At <hi>Acton,</hi> neere <hi>Nantwich</hi> was borne</l>
+               <l>this man, so lampe of all;</l>
+               <l>Whose skill at each braue exercise,</l>
+               <l>was not accounted small:</l>
+               <l>For beating of the war-like Drumme,</l>
+               <l>no man could him surpasse:</l>
+               <l>For dauncing, leaping, and such like,</l>
+               <l>in <hi>Cheshire</hi> neuer was.</l>
+            </lg>
+            <lg>
+               <l>For shooting none durst him oppose,</l>
+               <l>bee would ayme so faire and right;</l>
+               <l>Yet long he shot in crooked Bowes,</l>
+               <l>and could not hit the white:</l>
+               <l>For striuing still more things to learne,</l>
+               <l>the more he grew beleued;</l>
+               <l>No Shomaker but <hi>Spenser</hi> braue,</l>
+               <l>by women was so prooued.</l>
+            </lg>
+            <lg>
+               <l>Those qualities did draw his minde,</l>
+               <l>from reason quite and cleane.</l>
+               <l>And vildly hee'd forsake his wife,</l>
+               <l>for the loue of euery Queane:</l>
+               <l>By Women he maintayned was</l>
+               <l>in parill fine and braue,</l>
+               <l>
+                  <hi>Iohn Spenser</hi> could no good thing want,</l>
+               <l>for he could but aske, and haue.</l>
+            </lg>
+            <lg>
+               <l>In Silkes and Sattins would he goe,</l>
+               <l>none might, with him compare;</l>
+               <l>No fashion might deuised be,</l>
+               <l>but his should be as faire;</l>
+               <l>When as (God knowes) his wife at home</l>
+               <l>should pine with hungry griefe,</l>
+               <l>And none w<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld pitty her hard case,</l>
+               <l>or lend her some reliefe.</l>
+            </lg>
+            <lg>
+               <l>Whilst had abroad did flaunt it out</l>
+               <l>amongst his lustfull Queanes,</l>
+               <l>Poore <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of force she sits at home,</l>
+               <l>without either helpe or <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+               <l>Thus long he <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of all thats good,</l>
+               <l>Till at th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> last <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>he did shead <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</l>
+            </lg>
+            <lg>
+               <l>One <hi>Randall <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>with <hi>Spenser</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>And he being apt to Quareling,</l>
+               <l>would not be rul'd <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+               <l>But about the <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of a Glasse,</l>
+               <l>to which he would not <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeld,</l>
+               <l>He vowed he either would be Pledg'd</l>
+               <l>or answered fayre in <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+            </lg>
+            <lg>
+               <l>This answer <hi>Randall Gam</hi> did deny,</l>
+               <l>which <hi>Spencer</hi> plainly <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>And being <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Rand<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lgam</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound.</l>
+               <l>S<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uen <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> this he lay,</l>
+               <l>e<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e life from him did pa<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>:</l>
+               <l>And at the last to earth and <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>his Body did conuert.</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Spenser</hi> was in prison cast</l>
+               <l>his <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s full farre did ly,</l>
+               <l>For frindship in them proued cold,</l>
+               <l>and none could come him me.</l>
+               <l>That man being kild, beloued was well</l>
+               <l>of all men farre and neare,</l>
+               <l>And some did follow Law so farre,</l>
+               <l>did cost poore <hi>Spenser</hi> deare.</l>
+            </lg>
+            <lg>
+               <l>For though he kild him by mischance,</l>
+               <l>yet Law him so disdaines.</l>
+               <l>That for his vnrespected blow,</l>
+               <l>be there was hangd in Chaines.</l>
+               <l>He that was kild, had many friends,</l>
+               <l>the other <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w or none,</l>
+               <l>Therefore the Law, on that side went,</l>
+               <l>and the other was orethrone.</l>
+            </lg>
+            <lg>
+               <l>He being dead, two Milke white Doues,</l>
+               <l>did houer ouer his head,</l>
+               <l>And would not leaue that hartlesse place,</l>
+               <l>after he three howers was dead.</l>
+               <l>Two milke white Butterflies did light,</l>
+               <l>vpon his Breches there:</l>
+               <l>And stood Confronting peoples sight,</l>
+               <l>to their amase and feare.</l>
+            </lg>
+            <lg>
+               <l>Though he was vildly bent in life,</l>
+               <l>and hangd the Law to quit:</l>
+               <l>Yet he was stolne away by his wife▪</l>
+               <l>and Buryed in the night.</l>
+               <l>His true repentance is exprest,</l>
+               <l>within the second part:</l>
+               <l>With all his Gilt he hath confest,</l>
+               <l>when troubled was his heart.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <byline>by Thomas Dickerson.</byline>
+         </div>
+         <div type="ballad">
+            <pb facs="tcp:173460:1"/>
+            <head>Iohn Spenser his Repentance in Prison, Written with his owne hands as he lay in Chester Castle.</head>
+            <opener>To the same tune.</opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of man being hanged</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut of woman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>KInd Youngmen all to mee giue eare,</l>
+               <l>obserue these lessons well;</l>
+               <l>For vndeserued my d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath I tooke,</l>
+               <l>and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad is the tale I tell.</l>
+               <l>I prisond pent, I he full fast,</l>
+               <l>sure Heauen hath decreed:</l>
+               <l>That though I thriued, yet at last,</l>
+               <l>bad fortunes should proceed.</l>
+            </lg>
+            <lg>
+               <l>I that for practise passed all,</l>
+               <l>in exe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cises strong,</l>
+               <l>Haue heere for one offence but small,</l>
+               <l>been pent in Prison long.</l>
+               <l>Kind Countrymen, faire warning take,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeing bad, amend your liues,</l>
+               <l>For sure Heauen will them forsake,</l>
+               <l>that doe forsake their wiues.</l>
+            </lg>
+            <lg>
+               <l>I haue a wife, a louing wife,</l>
+               <l>a constant, and a kind;</l>
+               <l>Yet proud of gifts, I turnd my life,</l>
+               <l>and falce she did me find:</l>
+               <l>Heauen shewed his part in making me,</l>
+               <l>proper in limbes and face,</l>
+               <l>Yet of it I no true vse made,</l>
+               <l>but reapt thereby disgrace.</l>
+            </lg>
+            <lg>
+               <l>For being proud in dancing<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> art,</l>
+               <l>most womens loues I gaynd:</l>
+               <l>By them a long time was my life</l>
+               <l>in gallant sort maintaynd:</l>
+               <l>No Mayden young, about the towne,</l>
+               <l>but ioyfull was to see</l>
+               <l>The face of <hi>Spenser,</hi> and would spend,</l>
+               <l>all for to daunce with mee.</l>
+            </lg>
+            <lg>
+               <l>I spent my time in Ryoting,</l>
+               <l>and proud y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed my life,</l>
+               <l>I had my choyce of damsels fayre,</l>
+               <l>what card I for my wife,</l>
+               <l>If once she came to intreat me home,</l>
+               <l>i'd kick her out of doors,</l>
+               <l>Indeed I would be ruld by none,</l>
+               <l>but by intising whores.</l>
+            </lg>
+            <lg>
+               <l>At length being pledging of a Glasse,</l>
+               <l>my hopes I did confound:</l>
+               <l>And in my rag I feld my friend,</l>
+               <l>with one blow to the ground,</l>
+               <l>For this offence, he being dead,</l>
+               <l>and I in Prison cast:</l>
+               <l>Most voyd of hopes this rashing hand</l>
+               <l>hath Spensers name disgrast.</l>
+            </lg>
+            <lg>
+               <l>None but my wife will visit me,</l>
+               <l>for those I lou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d befo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>Being in this sad extremytie,</l>
+               <l>will visit me no more,</l>
+               <l>No helpe I find from these false friends,</l>
+               <l>no food to inrich my life:</l>
+               <l>Now doe I find the difference true,</l>
+               <l>twixt them and a constant wife</l>
+            </lg>
+            <lg>
+               <l>But she poore soule, by my bad meanes,</l>
+               <l>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quit bereft of all:</l>
+               <l>She playes the part of a Constant wife,</l>
+               <l>although her helpes be small.</l>
+               <l>Young men, youngmen, take heed by me</l>
+               <l>shun Dangers, Brawles, and Strife:</l>
+               <l>For though he fell against my will,</l>
+               <l>I for it loose my life.</l>
+            </lg>
+            <lg>
+               <l>O liue like men and not like me,</l>
+               <l>of no good giftes be proud:</l>
+               <l>For if with you God angry be,</l>
+               <l>from his vengeance nought can sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oud.</l>
+               <l>Make vse of what you haue practis d well,</l>
+               <l>and not in vitious meanes,</l>
+               <l>If in rare gifts you do excell,</l>
+               <l>yet trust not Vitiou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Queanes.</l>
+            </lg>
+            <lg>
+               <l>For lust doth fully fill their Vaynes,</l>
+               <l>and apt they be to intise:</l>
+               <l>O therefore shunne their company,</l>
+               <l>like good men still be wise.</l>
+               <l>Example truely take of me,</l>
+               <l>all Vitious courses shunne:</l>
+               <l>For onely by ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> com<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>any,</l>
+               <l>poore Spenser is vndone.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <byline>by Iohn Spenser.</byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London for I. Trundle</p>
+            <pb facs="tcp:173460:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:173460:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
